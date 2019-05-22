@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">돈쎄</string>
+    <string name="yes">확인</string>
+    <string name="no">취소</string>
+    <string name="yes_permission">허용</string>
+    <string name="no_permission">거부</string>
+    <string name="cleardata">자료 제거</string>
+    <string name="clearalldata">모든자료 제거</string>
+    <string name="completed_cleardata">자료 제거 성공</string>
+    <string name="failed_cleardata">자료 제거 실패</string>
+    <string name="completed_clearalldata">모든자료 제거 성공</string>
+    <string name="failed_clearalldata">모든자료 제거 실패</string>
+    <string name="okcleardata">제거</string>
+    <string name="question_cleardata">자료를 제거하겠습니까?</string>
+    <string name="completed_refresh">새로고침 완료</string>
+    <string name="calculating">계산 중 입니다</string>
+    <string name="failed_calculation">계산실패, 메인으로 돌아가기</string>
+    <string name="completed_calculation">계산완료, 자세히 보기</string>
+    <string name="inform_backpressed">뒤로가기시 저장되지 않습니다, 한번 더 누르면 메인으로 이동합니다</string>
+    <string name="backbtn">메인으로 돌아가기</string>
+</resources>
